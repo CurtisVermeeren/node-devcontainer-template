@@ -1,7 +1,7 @@
 {
 	"name": "Node VSCode Dev Container",
 	"dockerComposeFile": [
-		"docker-compose.yml"
+		"../docker-compose.yml"
 	],
 	"service": "node-app",
 	"workspaceFolder": "/app",
