@@ -16,8 +16,7 @@
 				}
 			},
 			"extensions": [
-				"dbaeumer.vscode-eslint",
-				"codeium.codeium"
+				"dbaeumer.vscode-eslint"
 			]
 		}
 	}

@@ -1,0 +1,9 @@
+services:
+  node-app:
+    build: .
+    container_name: Node-Devcontainer-Template
+    volumes:
+      - ./:/app:cached
+    ports:
+      - 8080:8080
+    command: sleep infinity
